@@ -4,40 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "48c599862203d94a",
+        "id": "d9dda7dcef4e70d0",
         "type": "split",
         "children": [
           {
             "id": "bd299449bdc4bca8",
             "type": "tabs",
-            "dimension": 35.424710424710426,
             "children": [
               {
                 "id": "f909d519becee799",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "UNIVIE/SEMESTER 2/ADS/ALGORITHMS.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "ALGORITHMS"
+                }
+              },
+              {
+                "id": "69eca6ec322cb598",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "UNIVIE/SEMESTER 2/MOD/ER-Modell.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "ER-Modell"
+                }
+              },
+              {
+                "id": "e05d0cc336a7dcfe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "UNIVIE/SEMESTER 2/MOD/Database.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Database"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
-            "id": "8061df8db36aa3e1",
+            "id": "5d120580e2e866d9",
             "type": "tabs",
-            "dimension": 64.57528957528957,
             "children": [
               {
-                "id": "38fad6a89a4b4bb3",
+                "id": "72d58ab24d39cf21",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "terminal:terminal": {
-                      "cwd": "/media/baal/D610-EF96/gigabrain",
+                      "cwd": "/home/baal/Documents/GIGACHADBRAIN67",
                       "focus": false,
                       "profile": {
                         "args": [
@@ -73,7 +104,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "baal@dauce: /media/baal/D610-EF96/gigabrain"
+                  "title": "baal@dauce: ~/Documents/GIGACHADBRAIN67"
                 }
               }
             ]
@@ -244,20 +275,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "38fad6a89a4b4bb3",
+  "active": "72d58ab24d39cf21",
   "lastOpenFiles": [
-    "05.10.2026.md",
+    "UNIVIE/SEMESTER 2/MOD/Database.md",
     "UNIVIE/SEMESTER 2/MOD/ER-Modell.md",
     "UNIVIE/SEMESTER 2/MOD/Lehrveranstaltung.md",
+    "Pasted image 20261005224107.md",
+    "UNIVIE/SEMESTER 2/MOD/Attachments/Pasted image 20261005224107.png",
+    "UNIVIE/SEMESTER 2/MOD/Attachments/Pasted image 20261005224440.png",
+    "UNIVIE/SEMESTER 2/MOD/Bee-Up.md",
+    "UNIVIE/SEMESTER 2/MOD/Attachments/Pasted image 20261005224252.png",
+    "UNIVIE/SEMESTER 2/MOD/Attachments/Pasted image 20261005224320.png",
+    "UNIVIE/SEMESTER 2/MOD/Attachments/Pasted image 20261005224410.png",
+    "UNIVIE/SEMESTER 2/MOD/Attachments/Pasted image 20261005224421.png",
+    "UNIVIE/SEMESTER 2/MOD/Attachments",
+    "UNIVIE/SEMESTER 2/MOD/SQL.md",
+    "UNIVIE/SEMESTER 3/HCI-1/Grunlagen des Projektmanagements.md",
+    "UNIVIE/SEMESTER 3/HCI-1/Attachments/Pasted image 20261005215245.png",
+    "UNIVIE/SEMESTER 3/HCI-1/Attachments",
+    "UNIVIE/SEMESTER 2/MGI2/Mathematische Grundlagen der Informatik 2.md",
+    "UNIVIE/SEMESTER 2/MGI2/BINOMIAL COEFFICIENT.md",
+    "UNIVIE/SEMESTER 2/ADS/ALGORITHMS.md",
+    "UNIVIE/SEMESTER 2/ADS/ALGORITHMS & DATA STRUCTURES.md",
+    "UNIVIE/SEMESTER 3/HCI-1",
     "UNIVIE/SEMESTER 2/ADS/2-3 TREES.md",
     "UNIVIE/SEMESTER 2/MOD",
     "UNIVIE/SEMESTER 2/ADS/HASHTABLE.md",
     "UNIVIE/SEMESTER 2/ADS/PERMUTATIONS WITH RESTRICTIONS.md",
-    "UNIVIE/SEMESTER 2/MGI2/BINOMIAL COEFFICIENT.md",
-    "UNIVIE/SEMESTER 2/MGI2/Mathematische Grundlagen der Informatik 2.md",
     "UNIVIE/SEMESTER 2/MGI2/Mathematische Grundlagen der Informatik 2",
-    "UNIVIE/SEMESTER 2/ADS/ALGORITHMS & DATA STRUCTURES.md",
-    "UNIVIE/SEMESTER 2/ADS/ALGORITHMS.md",
     "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260901213654.png",
     "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260901203731.png",
     "Attachments",
@@ -267,28 +312,16 @@
     "42/RANK 0/libft/ft_atoi.c.md",
     "42/RANK 0/libft/ft_atoi.c",
     "UNIVIE/SEMESTER 2/ADS/Dijkstra's Algorithm.md",
-    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830160528.png",
     "UNIVIE/SEMESTER 2/ADS/Prim's Algorithm.md",
     "UNIVIE/SEMESTER 2/ADS/Kruskal's Algorithm.md",
     "UNIVIE/SEMESTER 2/ADS/GREEDY ALGORITHMS.md",
-    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830154232.png",
     "UNIVIE/SEMESTER 2/ADS/MINIMUM SPANNING TREE.md",
     "UNIVIE/SEMESTER 2/ADS/INSERTION SORT.md",
     "UNIVIE/SEMESTER 2/ADS/SORTING ALGORITHMS.md",
     "UNIVIE/SEMESTER 2/ADS/LINKED LIST.md",
     "UNIVIE/SEMESTER 2/ADS/STACK.md",
-    "UNIVIE/SEMESTER 2/ADS/GRAPHS.md",
-    "UNIVIE/SEMESTER 2/ADS/AVL ROTATIONS.md",
-    "UNIVIE/SEMESTER 2/ADS/AVL TREES.md",
-    "UNIVIE/SEMESTER 2/ADS/TREES.md",
-    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830140419.png",
-    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830140416.png",
-    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830140415.png",
-    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830135809.png",
-    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830135807.png",
     "42/RANK 3/philosophers/philo/spawn.c",
     "42/RANK 3/philosophers/philo/philo.c",
-    "42/RANK 3/philosophers/philo/Makefile",
-    "42/RANK 3/philosophers/philo/helper_funcs.c"
+    "42/RANK 3/philosophers/philo/Makefile"
   ]
 }
