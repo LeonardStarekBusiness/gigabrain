@@ -1,0 +1,6 @@
+{
+  "extensions": ".c,.h,Makefile",
+  "showLineNumbers": true,
+  "enableEdit": true,
+  "editOpenMode": "current"
+}

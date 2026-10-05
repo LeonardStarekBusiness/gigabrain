@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "257fcc6167e3d517",
+    "type": "split",
+    "children": [
+      {
+        "id": "48c599862203d94a",
+        "type": "split",
+        "children": [
+          {
+            "id": "bd299449bdc4bca8",
+            "type": "tabs",
+            "dimension": 35.424710424710426,
+            "children": [
+              {
+                "id": "f909d519becee799",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8061df8db36aa3e1",
+            "type": "tabs",
+            "dimension": 64.57528957528957,
+            "children": [
+              {
+                "id": "38fad6a89a4b4bb3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/media/baal/D610-EF96/gigabrain",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "environment": [],
+                        "executable": "/bin/bash",
+                        "followTheme": true,
+                        "name": "BASH",
+                        "platforms": {
+                          "darwin": false,
+                          "linux": true,
+                          "win32": false
+                        },
+                        "pythonExecutable": "/usr/bin/python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": false
+                      },
+                      "profileSourceId": "81176187-95af-419c-8b73-15bf9edd0445",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "baal@dauce: /media/baal/D610-EF96/gigabrain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aa2fd88893f64fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d90cb0830c616a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cd51a770b390e6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0446ccaebd43ce99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "inser",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c593e0984c2eac24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "e4fb6003fb6b4bc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3849206ba8bbb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff995346e825f7da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "11061333c7ae43b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6d216388a095273d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8119b2e478707680",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c4b1aa8e689c3bb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "38fad6a89a4b4bb3",
+  "lastOpenFiles": [
+    "05.10.2026.md",
+    "UNIVIE/SEMESTER 2/MOD/ER-Modell.md",
+    "UNIVIE/SEMESTER 2/MOD/Lehrveranstaltung.md",
+    "UNIVIE/SEMESTER 2/ADS/2-3 TREES.md",
+    "UNIVIE/SEMESTER 2/MOD",
+    "UNIVIE/SEMESTER 2/ADS/HASHTABLE.md",
+    "UNIVIE/SEMESTER 2/ADS/PERMUTATIONS WITH RESTRICTIONS.md",
+    "UNIVIE/SEMESTER 2/MGI2/BINOMIAL COEFFICIENT.md",
+    "UNIVIE/SEMESTER 2/MGI2/Mathematische Grundlagen der Informatik 2.md",
+    "UNIVIE/SEMESTER 2/MGI2/Mathematische Grundlagen der Informatik 2",
+    "UNIVIE/SEMESTER 2/ADS/ALGORITHMS & DATA STRUCTURES.md",
+    "UNIVIE/SEMESTER 2/ADS/ALGORITHMS.md",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260901213654.png",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260901203731.png",
+    "Attachments",
+    "UNIVIE/SEMESTER 2/ADS/RUNNING TIME ANALYSIS.md",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260901193526.png",
+    "UNIVIE/SEMESTER 2/ADS/COMPLEXITY.md",
+    "42/RANK 0/libft/ft_atoi.c.md",
+    "42/RANK 0/libft/ft_atoi.c",
+    "UNIVIE/SEMESTER 2/ADS/Dijkstra's Algorithm.md",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830160528.png",
+    "UNIVIE/SEMESTER 2/ADS/Prim's Algorithm.md",
+    "UNIVIE/SEMESTER 2/ADS/Kruskal's Algorithm.md",
+    "UNIVIE/SEMESTER 2/ADS/GREEDY ALGORITHMS.md",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830154232.png",
+    "UNIVIE/SEMESTER 2/ADS/MINIMUM SPANNING TREE.md",
+    "UNIVIE/SEMESTER 2/ADS/INSERTION SORT.md",
+    "UNIVIE/SEMESTER 2/ADS/SORTING ALGORITHMS.md",
+    "UNIVIE/SEMESTER 2/ADS/LINKED LIST.md",
+    "UNIVIE/SEMESTER 2/ADS/STACK.md",
+    "UNIVIE/SEMESTER 2/ADS/GRAPHS.md",
+    "UNIVIE/SEMESTER 2/ADS/AVL ROTATIONS.md",
+    "UNIVIE/SEMESTER 2/ADS/AVL TREES.md",
+    "UNIVIE/SEMESTER 2/ADS/TREES.md",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830140419.png",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830140416.png",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830140415.png",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830135809.png",
+    "UNIVIE/SEMESTER 2/ADS/Attachments/Pasted image 20260830135807.png",
+    "42/RANK 3/philosophers/philo/spawn.c",
+    "42/RANK 3/philosophers/philo/philo.c",
+    "42/RANK 3/philosophers/philo/Makefile",
+    "42/RANK 3/philosophers/philo/helper_funcs.c"
+  ]
+}

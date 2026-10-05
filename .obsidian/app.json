@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "./Attachments",
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
+}
